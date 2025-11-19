@@ -40,6 +40,4 @@ Professores e alunos podem:
 - Criar issues para sugestões de atividades  
 - Usar os templates padronizados para organizar os conteúdos  
 
-## Contato
-Para dúvidas ou sugestões, procure a coordenação ou equipe docente.
 
